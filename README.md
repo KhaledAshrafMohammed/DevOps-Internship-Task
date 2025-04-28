@@ -33,7 +33,7 @@ I ran these commands in the terminal and took one screenshot for all of them:
 - `./mygrep.sh -vn hello testfile.txt` and `./mygrep.sh -nv hello testfile.txt` (to test both -vn and -nv, they give the same result)
 - `./mygrep.sh -v testfile.txt` (shows error)
 
-![All Commands](Q1 Custom Command (mygrep.sh)/screenshots/All Tests Command.png)
+You can see the screenshot here: [All Commands](https://github.com/KhaledAshrafMohammed/DevOps-Internship-Task/tree/main/Q1-Custo-Command-(mygrep.sh)/screenshots.png)
 
 ### Reflective Section
 #### 1. How My Script Handles Arguments and Options
